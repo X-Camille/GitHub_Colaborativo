@@ -8,4 +8,5 @@ public class HolaMundo {
 
         System.out.println("Camille Elgueta");
     }
+    public static void zihaoxiao(){}
 }
