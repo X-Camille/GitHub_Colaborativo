@@ -7,6 +7,8 @@ public class HolaMundo {
         System.out.println("dueño de Melo gordo, Melo flaco, y Ratita");
 
         System.out.println("Camille Elgueta");
+
+        System.out.println("Kihara Millaldeo");
     }
 
     public static void zihaoxiao() {
